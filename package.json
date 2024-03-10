@@ -1,0 +1,16 @@
+{
+  "name": "Marsexib",
+  "version": "1.0.0",
+  "description": "Scrapping Your centralized hub for exploring the vibrant art and cultural exhibitions of Marseille, bringing the city's creative heartbeat to your fingertips.",
+  "main": "main.js",
+  "repository": "git@github.com:MaloGermond/Marsexib.git",
+  "author": "MaloGermond <github@matchalo.org>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
